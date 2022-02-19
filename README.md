@@ -2,7 +2,22 @@
 budget calculator || calculadora de orçamento para impressões 3d
 
 #### Aplicativo simples para calcular valores teoricos sobre peças feitas na impressora 3D
-![img_app](https://user-images.githubusercontent.com/72234855/154820229-cd844a04-bcf5-4ea3-a98b-2091f1796946.png)
+![](app_img/img_app.png)
+### Pages
+   Tela apresenta a parte principal do aplicativo que diz a calculadora 
+   pagina inicial ==>> pagina da calculadora 
+## Simples Animação da tela inicial   
+![](app_img/Animation.gif)
+
+## Objetivo
+   Conseguir desenvolver uma aplicação para simplificar o processo de calculo rapido 
+   para pessoas que querem dá uma consultada rapida no valor teorico da peça impressa
+   na impressora 3d
+   
+ 
+
+
+
 
 #### 
 
