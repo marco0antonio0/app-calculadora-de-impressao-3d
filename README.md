@@ -1,4 +1,6 @@
-# calculadora_de_filamento_screen
+
+# Projeto de estudo 
+# Calculadora_de_filamento_screen
 budget calculator || calculadora de orçamento para impressões 3d
 
 #### Aplicativo simples para calcular valores teoricos sobre peças feitas na impressora 3D
